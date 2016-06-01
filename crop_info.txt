@@ -1,0 +1,4 @@
+SugarCane    18     70
+Wheat        6      15
+Rice         8      20
+Jawar        8      10
